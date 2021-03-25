@@ -23,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://pin.it/3r6wxaR);
+  background-image: url(https://t.co/5xVt2FLfIi);
   background-size: cover;
   color: black;
   text-align: center;
@@ -146,12 +146,12 @@ header {
 }
 
 .lesson {
-  float: left;
+  float: right;
   width: 25%;
 }
 
 .lesson-icon {
-  position: relative;
+  float: right;
 }
 
 .lesson-icon p {
