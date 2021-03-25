@@ -50,17 +50,17 @@ a {
   margin: 10px 0;
 }
 
-.signup {
-  background-color: #239b76;
+.instagram {
+  background-color: #FF69B4;
 }
 
-.facebook {
-  background-color: #3b5998;
+.telegram {
+  background-color: #87CEFA;
   margin-right: 10px;
 }
 
-.twitter {
-  background-color: #55acee;
+.whatsapp {
+  background-color: #32CD32;
 }
 
 .btn {
