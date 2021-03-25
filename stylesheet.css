@@ -23,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(https://pin.it/14jaVWx);
   background-size: cover;
   color: white;
   text-align: center;
@@ -83,7 +83,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: rgb(210, 105, 30);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -180,7 +180,7 @@ header {
   padding: 15px 40px;
   background-color: #8a2be2;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #00008b;
 }
 
 .message:active {
