@@ -19,13 +19,13 @@ a {
   max-width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
-} 
+}
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://t.co/5xVt2FLfIi);
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
-  color: black;
+  color: white;
   text-align: center;
 }
 
@@ -47,27 +47,24 @@ a {
 }
 
 .btn-wrapper p {
-  margin: 10px 10px 10px 10px;
-  padding: 
+  margin: 10px 0;
 }
 
-.Instagram {
-  background-color: #ff1493;
+.signup {
+  background-color: #239b76;
 }
 
-.Telegram {
-  background-color: #00bfff;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
 }
 
-.WhatsApp {
-  background-color: #32cd32;
+.twitter {
+  background-color: #55acee;
 }
 
 .btn {
-  padding: 12px 70px;
+  padding: 12px 24px;
   color: white;
   display: inline-block;
   opacity: 0.8;
@@ -86,7 +83,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgb(210, 105, 30);
+  background-color: rgba(34, 49, 52, 0.9);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -146,12 +143,12 @@ header {
 }
 
 .lesson {
-  float: right;
+  float: left;
   width: 25%;
 }
 
 .lesson-icon {
-  float: right;
+  position: relative;
 }
 
 .lesson-icon p {
@@ -181,9 +178,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #8a2be2;
+  background-color: #5dca88;
   cursor: pointer;
-  box-shadow: 0 7px #00008b;
+  box-shadow: 0 7px #1a7940;
 }
 
 .message:active {
