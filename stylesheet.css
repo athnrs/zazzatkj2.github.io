@@ -153,14 +153,14 @@ header {
 }
  
 img {
-  width: 500px;
+  width: 1000px;
 }
 
 .lesson-icon p {
   position: absolute;
   top: 44%;
   width: 100%;
-  color: white;
+  color: black;
 }
 
 .text-contents {
