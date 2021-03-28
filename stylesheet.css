@@ -84,7 +84,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgb(0,0,0);
+  background-color: rgb(72,209,204);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -150,6 +150,7 @@ header {
 
 .lesson-icon {
   position: relative;
+  image-size: 10px;
 }
 
 .lesson-icon p {
