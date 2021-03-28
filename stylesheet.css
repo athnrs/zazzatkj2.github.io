@@ -23,7 +23,8 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://t.co/5xVt2FLfIi.jpg);
+  background-image: url(content://com.android.chrome.FileProvider/images/screenshot/16169028855121995135690.jpg);
+);
   background-size: cover;
   color: black;
   text-align: center;
